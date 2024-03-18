@@ -26,7 +26,7 @@ const Blog = ({ blog, handleAddToCookcarts }) => {
           <li>{ingredients_array[2]}</li>
           <li>{ingredients_array[3]}</li>
           <li>{ingredients_array[4]}</li>
-          <li>{ingredients_array[4]}</li>
+          <li>{ingredients_array[5]}</li>
         </ul>
         <hr />
         <div className=" flex justify-between my-4 ">
