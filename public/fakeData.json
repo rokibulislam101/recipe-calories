@@ -1,0 +1,146 @@
+[
+  {
+    "image": "https://i.postimg.cc/mDQ1ZpVL/Spaghetti-Carbonara-image-1.jpg",
+    "id": 1,
+    "recipe_name": "Spaghetti Carbonara",
+    "short_description": "Classic Italian pasta dish with creamy sauce.",
+    "ingredients_array": [
+      "Spaghetti",
+      "Eggs",
+      "Bacon",
+      "Parmesan Cheese",
+      "Black Pepper"
+    ],
+    "preparing_time": 30,
+    "calories": 450
+  },
+  {
+    "image": "https://i.postimg.cc/kXV9xR38/Grilled-Salmon-image-2.jpg",
+    "id": 2,
+    "recipe_name": "Grilled Salmon",
+    "short_description": "Healthy and flavorful grilled salmon.",
+    "ingredients_array": [
+      "Salmon Fillet",
+      "Lemon",
+      "Olive Oil",
+      "Garlic",
+      "Dill"
+    ],
+    "preparing_time": 20,
+    "calories": 350
+  },
+  {
+    "image": "https://i.postimg.cc/qv8PL8mt/Chicken-Stir-Fry-image-3.jpg",
+    "id": 3,
+    "recipe_name": "Chicken Stir-Fry",
+    "short_description": "Quick and easy chicken stir-fry with vegetables.",
+    "ingredients_array": [
+      "Chicken Breast",
+      "Broccoli",
+      "Carrots",
+      "Bell Peppers",
+      "Soy Sauce"
+    ],
+    "preparing_time": 25,
+    "calories": 300
+  },
+  {
+    "image": "https://i.postimg.cc/FKFhkW9F/Caprese-Salad-image-4.jpg",
+    "id": 4,
+    "recipe_name": "Caprese Salad",
+    "short_description": "Refreshing salad with tomatoes, mozzarella, and basil.",
+    "ingredients_array": [
+      "Tomatoes",
+      "Mozzarella Cheese",
+      "Fresh Basil",
+      "Olive Oil",
+      "Balsamic Vinegar"
+    ],
+    "preparing_time": 15,
+    "calories": 200
+  },
+  {
+    "image": "https://i.postimg.cc/MTvxdnMh/Vegetable-Curry-image-5.jpg",
+    "id": 5,
+    "recipe_name": "Vegetable Curry",
+    "short_description": "Spicy and aromatic vegetable curry.",
+    "ingredients_array": [
+      "Potatoes",
+      "Carrots",
+      "Peas",
+      "Coconut Milk",
+      "Curry Paste"
+    ],
+    "preparing_time": 40,
+    "calories": 280
+  },
+  {
+    "image": "https://i.postimg.cc/FsjvW5zs/Chocolate-Brownies-image-6.jpg",
+    "id": 6,
+    "recipe_name": "Chocolate Brownies",
+    "short_description": "Rich and fudgy chocolate brownies.",
+    "ingredients_array": ["Flour", "Sugar", "Cocoa Powder", "Butter", "Eggs"],
+    "preparing_time": 35,
+    "calories": 400
+  },
+  {
+    "image": "https://i.postimg.cc/nLwfjnRT/Greek-Salad-image-7.jpg",
+    "id": 7,
+    "recipe_name": "Greek Salad",
+    "short_description": "Healthy salad with cucumbers, tomatoes, and feta cheese.",
+    "ingredients_array": [
+      "Cucumbers",
+      "Tomatoes",
+      "Feta Cheese",
+      "Red Onion",
+      "Olives"
+    ],
+    "preparing_time": 15,
+    "calories": 180
+  },
+  {
+    "image": "https://i.postimg.cc/mZ9WkfQN/Beef-Tacos-image-8.jpg",
+    "id": 8,
+    "recipe_name": "Beef Tacos",
+    "short_description": "Tasty tacos filled with seasoned beef and toppings.",
+    "ingredients_array": [
+      "Ground Beef",
+      "Tortillas",
+      "Lettuce",
+      "Tomatoes",
+      "Cheese"
+    ],
+    "preparing_time": 30,
+    "calories": 320
+  },
+  {
+    "image": "https://i.postimg.cc/K86nZTF5/Pumpkin-Soup-image-9.jpg",
+    "id": 9,
+    "recipe_name": "Pumpkin Soup",
+    "short_description": "Warm and comforting pumpkin soup.",
+    "ingredients_array": [
+      "Pumpkin",
+      "Onion",
+      "Vegetable Broth",
+      "Cream",
+      "Nutmeg"
+    ],
+    "preparing_time": 40,
+    "calories": 220
+  },
+  {
+    "image": "https://i.postimg.cc/j21DMVSh/Margherita-Pizza-image-10.jpg",
+    "id": 10,
+    "recipe_name": "Margherita Pizza",
+    "short_description": "Classic pizza topped with tomato sauce, mozzarella, and basil.",
+    "ingredients_array": [
+      "Pizza Dough",
+      "Tomato Sauce",
+      "Mozzarella Cheese",
+      "Fresh Basil",
+      "Olive Oil"
+    ],
+    "preparing_time": 25,
+    "calories": 380
+  }
+]
