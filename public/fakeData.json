@@ -8,6 +8,7 @@
       "Spaghetti",
       "Eggs",
       "Bacon",
+      "Tomato Sauce",
       "Parmesan Cheese",
       "Black Pepper"
     ],
@@ -24,7 +25,8 @@
       "Lemon",
       "Olive Oil",
       "Garlic",
-      "Dill"
+      "Dill",
+      "Salt"
     ],
     "preparing_time": 20,
     "calories": 350
@@ -39,7 +41,8 @@
       "Broccoli",
       "Carrots",
       "Bell Peppers",
-      "Soy Sauce"
+      "Soy Sauce",
+      "Rice"
     ],
     "preparing_time": 25,
     "calories": 300
@@ -53,6 +56,7 @@
       "Tomatoes",
       "Mozzarella Cheese",
       "Fresh Basil",
+      "Garlic",
       "Olive Oil",
       "Balsamic Vinegar"
     ],
@@ -68,6 +72,7 @@
       "Potatoes",
       "Carrots",
       "Peas",
+      "Chicken",
       "Coconut Milk",
       "Curry Paste"
     ],
@@ -93,7 +98,8 @@
       "Tomatoes",
       "Feta Cheese",
       "Red Onion",
-      "Olives"
+      "Olives",
+      "Onions"
     ],
     "preparing_time": 15,
     "calories": 180
@@ -108,7 +114,8 @@
       "Tortillas",
       "Lettuce",
       "Tomatoes",
-      "Cheese"
+      "Cheese",
+      "Sour Cream"
     ],
     "preparing_time": 30,
     "calories": 320
@@ -123,7 +130,8 @@
       "Onion",
       "Vegetable Broth",
       "Cream",
-      "Nutmeg"
+      "Nutmeg",
+      "Butter"
     ],
     "preparing_time": 40,
     "calories": 220
@@ -135,6 +143,7 @@
     "short_description": "Classic pizza topped with tomato sauce, mozzarella, and basil.",
     "ingredients_array": [
       "Pizza Dough",
+      "Pepperoni",
       "Tomato Sauce",
       "Mozzarella Cheese",
       "Fresh Basil",
