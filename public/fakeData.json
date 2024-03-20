@@ -84,7 +84,7 @@
     "id": 6,
     "recipe_name": "Chocolate Brownies",
     "short_description": "Rich and fudgy chocolate brownies.",
-    "ingredients_array": ["Flour", "Sugar", "Cocoa Powder", "Butter", "Eggs"],
+    "ingredients_array": ["Flour", "Sugar", "Cocoa Powder", "Vanilla Extract", "Butter", "Eggs"],
     "preparing_time": 35,
     "calories": 400
   },
